@@ -1,0 +1,23 @@
+{
+  "name": "jestexercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchALL --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kat-gilbert/unit5-jestexercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kat-gilbert/unit5-jestexercise/issues"
+  },
+  "homepage": "https://github.com/kat-gilbert/unit5-jestexercise#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
